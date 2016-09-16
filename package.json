@@ -1,0 +1,17 @@
+{
+  "name": "intakeconsumer",
+  "version": "1.0.0",
+  "description": "Consumer example test",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.13.x",
+    "cfenv": "1.0.x",
+    "message-hub-rest": "^1.0.1"
+  },
+  "repository": {},
+  "engines": {
+    "node": "4.x"
+   }
+}
